@@ -1,4 +1,4 @@
-// code for add two number
+// code for sum of two number
 #include<stdio.h>
 #include>conio.h>
 void main(_)
