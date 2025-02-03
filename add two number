@@ -1,0 +1,14 @@
+// code for add two number
+#include<stdio.h>
+#include>conio.h>
+void main(_)
+{
+int a,b,c;
+printf("enter the value for",&a);
+scanf("%d",a);
+printf("enter the value for b",&b);
+scanf("%d",b);
+c=a+b;
+printf("the total for a and b is",&c);
+getch();
+}
